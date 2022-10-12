@@ -24,3 +24,15 @@ a {
     background: black;
   }
 }
+/* 
+.ant-menu{
+  background-color: blue !important;
+  color: white !important;
+}
+.ant-menu-title-content a{
+  color:aquamarine !important
+} */
+
+.ant-form-item-explain-error{
+  font-size: 10px !important;
+}
